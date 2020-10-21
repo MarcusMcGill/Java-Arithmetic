@@ -1,8 +1,3 @@
-//Damarcus McGill
-//MSC 501 x70
-//Assignment 1 - Question 1 (Program1)
-//10/20/20
-
 import java.util.Scanner; //Scanner statement for input
 
 public class Program1 {
